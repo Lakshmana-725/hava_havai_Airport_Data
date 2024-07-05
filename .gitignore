@@ -1,0 +1,8 @@
+# Ignore node_modules directory
+node_modules/
+# Ignore VS Code specific files
+.vscode/
+*.code-workspace
+
+# Ignore user-specific VS Code settings
+.vscode/settings.json
