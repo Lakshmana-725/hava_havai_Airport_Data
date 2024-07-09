@@ -6,3 +6,4 @@ node_modules/
 
 # Ignore user-specific VS Code settings
 .vscode/settings.json
+config/

@@ -1,0 +1,10 @@
+GET http://localhost:3001/airport
+###
+GET http://localhost:3001/airport/4
+###
+GET http://localhost:3001/airport/iata_code/AAE
+###
+GET http://localhost:3001/city
+###
+GET http://localhost:3001/country
+###

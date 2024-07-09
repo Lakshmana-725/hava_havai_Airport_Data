@@ -1,4 +1,0 @@
-GET  http://localhost:3000/airport/
-###
-GET  http://localhost:3000/airport/?order=&order_by=&search_q=AGR
-###
